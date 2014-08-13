@@ -13,6 +13,7 @@ dependencies[] = dashboard
 dependencies[] = help
 dependencies[] = image
 dependencies[] = list
+dependencies[] = locale
 dependencies[] = menu
 dependencies[] = number
 dependencies[] = options
@@ -27,13 +28,13 @@ dependencies[] = file
 dependencies[] = rdf
 ; for MC
 dependencies[] = admin_menu
-dependencies[] = advanced_help
 dependencies[] = backup_migrate
 dependencies[] = date
 dependencies[] = devel
-dependencies[] = themer
 dependencies[] = diff
 dependencies[] = ds
+dependencies[] = ds_extras
+dependencies[] = ds_ui
 dependencies[] = date
 dependencies[] = entity_reference
 dependencies[] = features
@@ -41,6 +42,7 @@ dependencies[] = features_extra
 dependencies[] = image_resize_filter
 dependencies[] = imagefield_crop
 dependencies[] = link
+dependencies[] = email
 dependencies[] = pathauto
 
 dependencies[] = profile2
@@ -51,4 +53,10 @@ dependencies[] = telephone
 dependencies[] = token
 dependencies[] = url
 dependencies[] = views
+dependencies[] = views_ui
 
+; custom NYU Digital Libraries Technology Services
+dependencies[] = mc_footer
+dependencies[] = mc_hub_and_spoke
+dependencies[] = mc_global_nav
+dependencies[] = mediacommons_profile2
