@@ -1,0 +1,54 @@
+name = Media Commons
+description = Install with many useful modules for MC
+version = VERSION
+core = 7.x
+project = "drupal"
+
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+; for MC
+dependencies[] = admin_menu
+dependencies[] = advanced_help
+dependencies[] = backup_migrate
+dependencies[] = date
+dependencies[] = devel
+dependencies[] = themer
+dependencies[] = diff
+dependencies[] = ds
+dependencies[] = date
+dependencies[] = entity_reference
+dependencies[] = features
+dependencies[] = features_extra
+dependencies[] = image_resize_filter
+dependencies[] = imagefield_crop
+dependencies[] = link
+dependencies[] = pathauto
+
+dependencies[] = profile2
+dependencies[] = realname
+dependencies[] = references
+dependencies[] = strongarm
+dependencies[] = telephone
+dependencies[] = token
+dependencies[] = url
+dependencies[] = views
+
