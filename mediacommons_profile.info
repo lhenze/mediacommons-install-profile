@@ -60,3 +60,5 @@ dependencies[] = mc_footer
 dependencies[] = mc_hub_and_spoke
 dependencies[] = mc_global_nav
 dependencies[] = mediacommons_profile2
+dependencies[] = imagefield_crop_extended
+
